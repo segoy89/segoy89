@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Ruby on Rails developer 💻 💎 
+
+Currently learning Flutter 📱 🔥 💪
+
 <!--
 **segoy89/segoy89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
